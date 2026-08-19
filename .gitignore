@@ -1,0 +1,37 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Environment variables / credentials
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Screenshots
+screenshots/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Test/output files
+reports/
+
+# Patient data / local Excel files
+patients.xlsx
+*.xlsx
+*.xls
